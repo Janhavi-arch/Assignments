@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nested Lists</title>
+</head>
+<body>
+    <h1>My top 5 Favourite Movies</h1>
+
+    <ol>
+        <li><b><h3>Incantation </h3></b></li>
+        <ul>
+            <li>Year of release:- 2022</li>
+            <li>Main Actors :-</li>
+            <ul>
+                <li>Hsuan-yen Tsai</li>
+                <li>Sean Lin</li>
+                <li>Ven Kao</li>
+                <li>Ahmed Shawky Shaheen</li>
+            </ul>
+            <li>Brief Description :- </li>
+            <ul>
+                <li>Incantation is a 2022 horror mystery film about a woman named Li Ronan (Hsuan-yen Tsai) who must protect her daughter from a religious curse she unleashed six years ago. The movie encourages viewers to participate by frequently displaying an insignia and incantation throughout the film, asking them to memorize the insignia and chant the incantation to lift the curse.</li>
+                <li>A woman named Li Ronan implores the viewer to memorize an insignia and chant an incantation to send blessings and lift the curse on her six-year-old daughter, Dodo. The insignia and incantation are interspersed frequently throughout the film to encourage the viewer to pray along. The events are shown as found footage in a non-linear manner. The written plot is in chronological order.</li>
+            </ul>
+        </ul>
+
+        <li><b><h3>Scream VI</h3></b></li>
+        <ul>
+            <li>Year of release:- 2023</li>
+            <li>Main Actors :-</li>
+            <ul>
+                <li>Jena Ortega</li>
+                <li>Melissa Barrera</li>
+                <li>Hayden Panettiere</li>
+                <li>Samara Weaving</li>
+                <li>Jack Champion</li>
+                <li>Courteney Cox</li>
+            </ul>
+            <li>Brief Description :- </li>
+            <ul>
+                <li>Scream VI is a 2023 horror, mystery, and thriller movie that takes place one year after the events of the previous Scream movie. The plot follows the survivors of the Ghostface killings in Woodsboro as they leave for New York City and start a new life. However, a new Ghostface killer begins targeting them in their new home.</li>
+                <li>Four survivors of the Ghostface murders leave Woodsboro behind for a fresh start in New York City. However, they soon find themselves in a fight for their lives when a new killer embarks on a bloody rampage.</li>
+            </ul>
+        </ul>
+
+        <li><b><h3>Smile</h3></b></li>
+        <ul>
+            <li>Year of release:- 2022</li>
+            <li>Main Actors :-</li>
+            <ul>
+                <li>Sosie Bacon</li>
+                <li>Caitlin Stasey</li>
+                <li>Kyle Gallner</li>
+                <li>Kal Pen</li>
+                <li>Jessie Usher</li>
+            </ul>
+            <li>Brief Description :- </li>
+            <ul>
+                <li>Smile is a 2022 horror, mystery, and thriller film about a psychiatrist who becomes convinced she is under a mysterious curse after witnessing a traumatic incident with a patient. The film stars Sosie Bacon as Dr. Rose Cotter, a compassionate therapist who treats vulnerable members of society, and Jessie T. Usher, Kyle Gallner, Kal Penn, and Rob Morgan. Parker Finn wrote and directed the film, which is based on his 2020 short film Laura Hasn't Slept.</li>
+                <li>After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.</li>
+            </ul>
+        </ul>
+
+        <li><b><h3>Talk To Me</h3></b></li>
+        <ul>
+            <li>Year of release:- 2022</li>
+            <li>Main Actors :-</li>
+            <ul>
+                <li>Sophie Wilde</li>
+                <li>Zoe Terakes</li>
+                <li>Miranda Otto</li>
+                <li>Joe Bird</li>
+                <li>Alexandra Jensen</li>
+                <li>Otis Dhanji</li>
+            </ul>
+            <li>Brief Description :- </li>
+            <ul>
+                <li>When a group of friends discover how to conjure spirits with an embalmed hand, they become hooked on the new thrill and high-stakes party game -- until one of them goes too far and unleashes terrifying supernatural forces.</li>
+                <li>The concluding scenes could have been more polished, hastily tying up loose ends and leaving a somewhat hasty impression. “Talk to Me” is worth a watch if you're in the mood for a decent horror flick, although it might not be the type that compels you to rush to the theaters.</li>
+            </ul>
+        </ul>
+
+        <li><b><h3>The Nun</h3></b></li>
+        <ul>
+            <li>Year of release:- 2018</li>
+            <li>Main Actors :-</li>
+            <ul>
+                <li>Taissa Farmiga</li>
+                <li>Bonnie Aarons</li>
+                <li>Jonas Bloquet</li>
+                <li> Demian Bichir</li>
+                <li>Vera Farmiga</li>
+            </ul>
+            <li>Brief Description :- </li>
+            <ul>
+                <li>The Nun is a 2018 horror, mystery, and thriller film about a priest and a novitiate sent by the Vatican to investigate the death of a young nun at a Romanian abbey. The nun's suicide uncovers the abbey's unholy secret, and the pair must confront a demonic nun and a malevolent force that threatens their lives, faith, and souls. The film is set in 1952, and the demon takes the form of a nun who attacks two nuns at the Saint Cartha's monastery. The surviving nun, Sister Victoria, flees and hangs herself, and her body is discovered by a villager.</li>
+                <li>When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together, they uncover the order's unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of a demonic nun.</li>
+            </ul>
+        </ul>
+
+    </ol>
+
+</body>
+</html>
