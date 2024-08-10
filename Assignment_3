@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Schedule</title>
+</head>
+<body>
+    <h1>My Weekly Schedule</h1>
+
+    <table style="width: 100%;" border="5px">
+        <!-- Table header row -->
+        <tr>
+            <th>Time</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+            <th>Saturday</th>
+            <th>Sunday</th>
+        </tr>
+        
+        <!-- Morning time slot -->
+        <tr>
+            <td>8:00 AM - 9:00 AM</td>
+            <td>Exercise</td>
+            <td>Exercise</td>
+            <td>Exercise</td>
+            <td>Exercise</td>
+            <td>Exercise</td>
+            <td>Rest</td>
+            <td>Rest</td>
+        </tr>
+        
+        <!-- Mid-morning time slot -->
+        <tr>
+            <td>9:00 AM - 10:00 AM</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Personal Projects</td>
+            <td>Personal Projects</td>
+        </tr>
+        
+        <!-- Late morning time slot -->
+        <tr>
+            <td>10:00 AM - 12:00 PM</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Hobbies</td>
+            <td>Hobbies</td>
+        </tr>
+        
+        <!-- Lunch break -->
+        <tr>
+            <td>12:00 PM - 1:00 PM</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch with Friends</td>
+            <td>Lunch with Family</td>
+        </tr>
+        
+        <!-- Early afternoon time slot -->
+        <tr>
+            <td>1:00 PM - 3:00 PM</td>
+            <td>Meetings</td>
+            <td>Work</td>
+            <td>Meetings</td>
+            <td>Work</td>
+            <td>Meetings</td>
+            <td>Relaxation</td>
+            <td>Relaxation</td>
+        </tr>
+        
+        <!-- Late afternoon time slot -->
+        <tr>
+            <td>3:00 PM - 5:00 PM</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Outdoor Activities</td>
+            <td>Outdoor Activities</td>
+        </tr>
+        
+        <!-- Evening time slot -->
+        <tr>
+            <td>5:00 PM - 7:00 PM</td>
+            <td>Family Time</td>
+            <td>Family Time</td>
+            <td>Family Time</td>
+            <td>Family Time</td>
+            <td>Family Time</td>
+            <td>Dinner with Friends</td>
+            <td>Movie Night</td>
+        </tr>
+        
+        <!-- Night time slot -->
+        <tr>
+            <td>7:00 PM - 9:00 PM</td>
+            <td>Reading</td>
+            <td>Reading</td>
+            <td>Reading</td>
+            <td>Reading</td>
+            <td>Reading</td>
+            <td>TV Shows</td>
+            <td>TV Shows</td>
+        </tr>
+        
+        <!-- Late night time slot -->
+        <tr>
+            <td>9:00 PM - 10:00 PM</td>
+            <td>Relax</td>
+            <td>Relax</td>
+            <td>Relax</td>
+            <td>Relax</td>
+            <td>Relax</td>
+            <td>Unwind</td>
+            <td>Unwind</td>
+        </tr>
+    </table>
+
+
+</body>
+</html>
