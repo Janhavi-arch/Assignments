@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <Header>
+        <h1>Psychology</h1>
+        <nav>
+            <a href="Home">Home</a>
+            <a href="About Us">About Us</a>
+            <a href="Contact">Contact</a>
+            <a href="Links">Link </a>
+        </nav>
+    </Header>
+
+    <section>
+        <h2>Cognitive Psychology</h2>
+        <article>
+            <p>
+                Studies mental processes like attention span, memory, perception, and problem-solving to understand how people acquire, process, and use information. It also looks at how thoughts and interpretations of situations can impact responses, emotions, and behaviors.
+                
+                Cognitive psychology is the branch of psychology dedicated to studying how people think. The cognitive perspective in psychology focuses on how the interactions of thinking, emotion, creativity, and problem-solving abilities affect how and why you think the way you do.
+            </p>
+        </article>
+    </section>
+
+    <section>
+        <h2>Social Psychology</h2>
+        <article>
+            <p>
+                Sociopsychology is a minor that combines the fields of sociology and psychology. Sociology is the study of social life, change, and causes, as well as the consequences of human behavior in different cultural contexts. Psychology is the study of how and why people behave as they do, including their mental processes, personality, and social interactions.
+                Social psychologists study how people's thoughts, feelings, and actions are influenced by the presence and behavior of others. They research social interactions and the factors that influence them, such as group behavior, attitudes, public perceptions, and leadership. Social psychologists also study social challenges, such as prejudice, implicit bias, bullying, criminal activity, and substance abuse.
+            </p>
+        </article>
+    </section>
+
+    <section>
+        <h2>Behavioral Psychology</h2>
+        <article>
+            <p>
+                Behavioral psychology, or behaviorism, is a theory suggesting that environment shapes human behavior. In a most basic sense, behavioral psychology is the study and analysis of observable behavior.There are several opportunities for integrating behavioral psychology into practice. For instance, many psychologists research topics like conditioning to examine the nature of human behavior. Often, they are able to apply findings to mental health disorders.
+
+                Behavioral psychology has had a major impact in clinical applications. For instance, mental health counselors, substance abuse counselors, and other professionals use therapeutic techniques from behaviorism to help people overcome specific issues. Even newer fields, like applied behavior analysis, have emerged by adapting concepts from behavioral psychology.
+            </p>
+        </article>
+    </section>
+
+    <section>
+        <h2>Clinical Psychology</h2>
+        <article>
+            <p>
+                Clinical psychology is a psychological specialty that uses scientific principles to understand, prevent, and treat mental and behavioral health issues. It involves observing and working directly with patients in clinics and related settings to promote change. Clinical psychologists integrate knowledge and skills from a variety of disciplines, including human science, behavioral science, theory, and clinical knowledge. They provide mental health care for individuals, couples, families, and groups, and may also consult with agencies and communities.
+            </p>
+        </article>
+    </section>
+
+    <aside>
+        <h3>Referal Link</h3>
+        <a href="https://en.wikipedia.org/wiki/Psychology#:~:text=Psychology%20is%20the%20scientific%20study,thoughts%2C%20feelings%2C%20and%20motives.">All_About_Psychology</a>
+    </aside><br><br><br>
+
+    <footer>
+        &copy;2024 All rights reserved
+    </footer>
+
+</body>
+</html>
