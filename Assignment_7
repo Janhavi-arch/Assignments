@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Devotinal Audio and Video
+    </h1>
+
+    <h3>Audio</h3>
+
+    <audio controls>
+        <source src="सखकरत दखहरत (गणपत आरत) - जय दव जय दव JAI DEV JAI DEV - SUKH KARTA DUKH HARTA (AARTI) [TubeRipper.cc].m4a" type="audio/ogg">
+        Your browser does not support the audio tag.
+    </audio>
+    <h2>Description</h2>
+    <p>
+        "Sukhkarta Dukhharta" is a popular Ganesh aarti that translates to "Salutations to the Lord who is the giver of joy, the remover of sorrow, and the one who eliminates hurdles". The word "sukhkarta" means "giver of joy" and "dukhharta" means "remover of sorrow". The aarti also asks Ganesha to protect devotees in distress and be pleased with them. 
+        Saint-poet-philosopher Samarth Ramdas is believed to have written the aarti after seeing the Mayureshwar form of Lord Ganesha at the Morgaon Temple in Pune. You can listen to the aarti on YouTube with English and Hindi lyrics by Shankar Mahadevan.
+    </p><br><br>
+
+    <h3>Video</h3>
+
+    <video src="IMG_7888.MOV" width="200" controls>Not found</video>
+    <h2>Description</h2>
+    <p>
+        Ganesh Utsav, or Ganesh Mahotsav, is a major festival in Maharashtra that originated in Pune in 1893 with Lokmanya Tilak. The festival is a celebration of the community's shared heritage, unity, and devotion, and is more than just a religious event. It's a cultural experience that includes music concerts, traditional dances, cultural performances, and competitions.
+        The festival was initially celebrated by a few prominent families in Pune, who installed Ganesh idols in their homes. However, Tilak encouraged the community to come together and build massive public pandals (temporary structures) where large Ganesh idols were installed.
+    </p>
+
+
+</body>
+</html>
