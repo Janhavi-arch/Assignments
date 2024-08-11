@@ -3,25 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Janhavi</title>
+    <title>Document</title>
 </head>
 <body>
-    <h1>Janhavi Deshmukh </h1>
-    <h3>Introduction</h3>
-    <p>Hello! My name is Janhavi Deshmukh, and I'm currently a 3rd year student at AISSMS Institute Of Information Technology, majoring in Electronics and telecommunication. I'm not passionate about anything, and I'm always eager to learn new things and challenge myself academically. In addition to my studies, I'm involved in Sports Activities, which allow me to develop my skills and connect with like-minded individuals. I'm looking forward to exploring new opportunities and experiences as I continue my education journey.</p>
-
-    <h3>Hobbies</h3>
-    <ul style="list-style: square;">
-        <li>Cooking</li>
-        <li>Trekking</li>
-        <li>Photography</li>
-        <li>PLaying games</li>
-        <li>Motorcycling</li>
-        <li>Watching Dramas and cartoons</li>
-    </ul>
-
-    <h3>My favorite Website</h3>
-    <a href="https://in.pinterest.com/">Pinterest</a>
+    <h1>Application</h1>
+    <p>Name: <input type="text" name="name" required></p>
+    <p>Email: <input type="email" name="email" id="email"required></p>
+    <p>password: <input type="password" required></p>
+    <p>
+        <input type="checkbox" required>Agree to the terms and conditions<a href="assignment_2T&C.html">Terms and conditions</a>
+    </p>
+    <p>
+        <input type="submit" value="submit">
+    </p>
 </body>
 </html>
 
